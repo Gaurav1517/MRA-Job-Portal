@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        EC2_IP = '98.84.104.241'
+        EC2_IP = '54.84.190.206'
         SSH_CRED = 'git-ssh-key'
         REPO = 'git@github.com:Gaurav1517/MRA-Job-Portal.git'
         APP_DIR = '/home/ubuntu/mra-job-portal'
